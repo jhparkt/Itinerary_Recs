@@ -30,8 +30,9 @@ CUISINE_OPTIONS = ['mexican', 'italian', 'thai', 'chinese', 'japanese', 'america
     'lebanese', 'tex-mex', 'mediterranean', 'middle_eastern']
 
 # Add more if possible
-ACCESSIBILITY_OPTIONS = ['wheelchair', 'toilets', 'toilets:unisex', 'toilets:wheelchair',
-    'changing_table', 'sensory_friendly:accommodation', 'drive_through', 'air_conditioning']
+# ACCESSIBILITY_OPTIONS = ['wheelchair', 'toilets', 'toilets:unisex', 'toilets:wheelchair',
+#     'changing_table', 'sensory_friendly:accommodation', 'drive_through', 'air_conditioning']
+ACCESSIBILITY_OPTIONS = ['wheelchair']
 
 def randomize_coords(base_lat, base_lon):
     lat_offset = random.uniform(-0.025, 0.025)
@@ -46,14 +47,14 @@ def select_multiple_options(options, min_count=1, max_count=3):
     selected = random.sample(options, k)
     return "|".join(selected)
 
-def generate_user_preferences(count=100, max_poi=5):
+def generate_user_preferences(count=100, max_poi=4):
     preferences = []
     
     for i in range(1, count + 1):
         location = random.choice(SAN_DIEGO_LOCATIONS)
         start_coords = randomize_coords(location['lat'], location['lon'])
         num_poi = random.randint(2, max_poi)
-        time_per_poi = random.choice([30, 45, 60, 75, 90, 105, 120])
+        time_per_poi = random.choice([0.5, 0.75, 1, 1.25, 1.5, 1.75, 2]) # (hrs)
         
         # walking
         if num_poi > 4 and random.random() < 0.5:

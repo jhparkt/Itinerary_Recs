@@ -162,21 +162,21 @@ def get_accessibility_acc(itinerary, pref):
     if not itinerary:
         return 0.0
 
-    required_accessibility = pref.get("required_accessibility", [])
+    required_accessibility = pref.get("required_accessibility", "")
 
     compliant_pois = 0
     for poi in itinerary:
         is_fully_compliant = True
         poi_features = poi.get("features", {})
         
-        for feature in required_accessibility:
+        for feature in required_accessibility.split("|"):
             if not poi_features.get(feature, False):
                 is_fully_compliant = False
                 break
         
         if is_fully_compliant:
             compliant_pois += 1
-            
+    
     accuracy = compliant_pois / len(itinerary)
     return accuracy
 
@@ -188,9 +188,9 @@ def get_compliance_rate(itinerary, pref):
     if not itinerary:
         return 0.0
 
-    required_accessibility = pref.get("required_accessibility", [])
+    required_accessibility = pref.get("required_accessibility", "")
         
-    total_required_count = len(required_accessibility) * len(itinerary)
+    total_required_count = len(required_accessibility.split("|")) * len(itinerary)
     total_met_count = 0
 
     if total_required_count == 0:
@@ -198,10 +198,10 @@ def get_compliance_rate(itinerary, pref):
 
     for poi in itinerary:
         poi_features = poi.get("features", {})
-        for feature in required_accessibility:
+        for feature in required_accessibility.split("|"):
             if poi_features.get(feature, False):
                 total_met_count += 1
-                
+
     compliance_rate = total_met_count / total_required_count
     return compliance_rate
 
