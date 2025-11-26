@@ -39,6 +39,23 @@ PRESETS = {
         'nwr["amenity"~"^(restaurant|cafe|fast_food)$"]',
         'nwr["historic"]'
     ],
+    "parking_core": [
+        'node["amenity"="parking_entrance"]',
+        'nwr["amenity"="parking"]',
+        'node["parking_space"="disabled"]'
+    ],
+    "parking_plus_street": [
+        'node["amenity"="parking_entrance"]',
+        'nwr["amenity"="parking"]',
+        'node["parking_space"="disabled"]',
+        'way["parking"="street_side"]'
+    ],
+    "parking_all": [
+        'node["amenity"="parking_entrance"]',
+        'nwr["amenity"="parking"]',
+        'node["parking_space"="disabled"]',
+        'way["parking"="street_side"]'
+    ],
 }
 
 # ------------ Query Constructors ------------
