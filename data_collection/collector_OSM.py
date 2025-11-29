@@ -50,7 +50,7 @@ PRESETS = {
         'node["parking_space"="disabled"]',
         'way["parking"="street_side"]'
     ],
-    "parking_all": [
+    "all_parking": [
         'node["amenity"="parking_entrance"]',
         'nwr["amenity"="parking"]',
         'node["parking_space"="disabled"]',
