@@ -1,4 +1,9 @@
 import json, os, sys
+
+current = os.path.dirname(os.path.realpath(__file__))
+parent = os.path.dirname(current)
+sys.path.append(parent)
+
 from schemas.poi_schema import AccessiblePOI, Coords
 
 # Minimal tag→category mapping (extend as needed)

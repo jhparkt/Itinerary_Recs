@@ -47,7 +47,7 @@ TEST_PREFERENCES = {
     "start_location": {"lat": 34.05, "lon": -118.25}, 
     "avg_travel_speed_mph": 20.0, 
     "max_travel_time_minutes": 45.0,
-    "required_accessibility": ["wheelchair", "toilets:wheelchair"],
+    "required_accessibility": "wheelchair|toilets:wheelchair",
     "amenity_type": "restaurant|cafe", 
     "tourism_type": "museum|gallery", 
     "cuisine": "italian|american",
