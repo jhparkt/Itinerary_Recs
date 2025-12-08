@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 1,
+    "start_location": {
+      "lat": 32.7073,
+      "lon": -117.156
+    },
+    "num_poi": 3,
+    "time_per_poi": 0.75,
+    "max_travel_dist": 17.4,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "fast_food",
+    "tourism_type": "viewpoint",
+    "cuisine": "guamanian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 2,
+    "start_location": {
+      "lat": 32.6261,
+      "lon": -117.0818
+    },
+    "num_poi": 2,
+    "time_per_poi": 2,
+    "max_travel_dist": 18.1,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "fountain|post_office",
+    "tourism_type": "gallery|attraction",
+    "cuisine": "cuban|new_zealand",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 3,
+    "start_location": {
+      "lat": 32.7275,
+      "lon": -117.1595
+    },
+    "num_poi": 5,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 18.3,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "cafe|fast_food|conference_centre",
+    "tourism_type": "artwork",
+    "cuisine": "afghan",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 4,
+    "start_location": {
+      "lat": 32.728,
+      "lon": -117.1988
+    },
+    "num_poi": 3,
+    "time_per_poi": 1,
+    "max_travel_dist": 13.6,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "bench|bicycle_parking|fire_station",
+    "tourism_type": "museum",
+    "cuisine": "brazilian|argentinian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 5,
+    "start_location": {
+      "lat": 32.7025,
+      "lon": -117.1847
+    },
+    "num_poi": 4,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 12.7,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "place_of_worship",
+    "tourism_type": "theme_park|gallery",
+    "cuisine": "indian|pakistani",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 6,
+    "start_location": {
+      "lat": 32.6332,
+      "lon": -117.0614
+    },
+    "num_poi": 3,
+    "time_per_poi": 1.5,
+    "max_travel_dist": 14.9,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "bench",
+    "tourism_type": "zoo|artwork|attraction",
+    "cuisine": "brazilian|tex-mex",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 7,
+    "start_location": {
+      "lat": 32.725,
+      "lon": -117.1806
+    },
+    "num_poi": 4,
+    "time_per_poi": 2,
+    "max_travel_dist": 16.4,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "bench|clock",
+    "tourism_type": "artwork",
+    "cuisine": "german|guamanian|cuban",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 8,
+    "start_location": {
+      "lat": 32.853,
+      "lon": -117.2712
+    },
+    "num_poi": 2,
+    "time_per_poi": 1.5,
+    "max_travel_dist": 13.2,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "planetarium|post_office",
+    "tourism_type": "viewpoint",
+    "cuisine": "american|filipino|japanese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 9,
+    "start_location": {
+      "lat": 32.7706,
+      "lon": -117.1633
+    },
+    "num_poi": 5,
+    "time_per_poi": 0.75,
+    "max_travel_dist": 17.6,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "fire_station|clock",
+    "tourism_type": "theme_park|attraction|gallery",
+    "cuisine": "japanese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 10,
+    "start_location": {
+      "lat": 32.7595,
+      "lon": -117.2196
+    },
+    "num_poi": 2,
+    "time_per_poi": 0.75,
+    "max_travel_dist": 10.7,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "clock",
+    "tourism_type": "theme_park|gallery",
+    "cuisine": "indian|colombian|nepalese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 11,
+    "start_location": {
+      "lat": 32.6246,
+      "lon": -117.1065
+    },
+    "num_poi": 5,
+    "time_per_poi": 1,
+    "max_travel_dist": 1.9,
+    "avg_travel_speed_mph": 3.5,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "post_office|fast_food|theatre",
+    "tourism_type": "aquarium|zoo|attraction",
+    "cuisine": "french",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 12,
+    "start_location": {
+      "lat": 32.8554,
+      "lon": -117.2654
+    },
+    "num_poi": 3,
+    "time_per_poi": 2,
+    "max_travel_dist": 19.2,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "fast_food",
+    "tourism_type": "viewpoint",
+    "cuisine": "russian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 13,
+    "start_location": {
+      "lat": 32.7733,
+      "lon": -117.1749
+    },
+    "num_poi": 3,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 10.0,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "planetarium|theatre",
+    "tourism_type": "theme_park|gallery|zoo",
+    "cuisine": "vietnamese|chinese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 14,
+    "start_location": {
+      "lat": 32.6935,
+      "lon": -117.1625
+    },
+    "num_poi": 3,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 19.6,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "cafe",
+    "tourism_type": "viewpoint|theme_park|attraction",
+    "cuisine": "pakistani|lebanese|tex-mex",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 15,
+    "start_location": {
+      "lat": 32.648,
+      "lon": -117.083
+    },
+    "num_poi": 4,
+    "time_per_poi": 1,
+    "max_travel_dist": 12.0,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "cinema|cafe",
+    "tourism_type": "artwork|viewpoint|museum",
+    "cuisine": "mexican",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 16,
+    "start_location": {
+      "lat": 32.7329,
+      "lon": -117.1445
+    },
+    "num_poi": 3,
+    "time_per_poi": 1,
+    "max_travel_dist": 18.8,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "bench|clock",
+    "tourism_type": "artwork|theme_park|aquarium",
+    "cuisine": "mexican|australian|venezuelan",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 17,
+    "start_location": {
+      "lat": 32.7111,
+      "lon": -117.2351
+    },
+    "num_poi": 3,
+    "time_per_poi": 1,
+    "max_travel_dist": 12.8,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "bicycle_parking",
+    "tourism_type": "theme_park|museum|attraction",
+    "cuisine": "middle_eastern",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 18,
+    "start_location": {
+      "lat": 32.6912,
+      "lon": -117.1477
+    },
+    "num_poi": 4,
+    "time_per_poi": 0.75,
+    "max_travel_dist": 17.4,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "cafe",
+    "tourism_type": "museum|artwork|attraction",
+    "cuisine": "lebanese|australian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 19,
+    "start_location": {
+      "lat": 32.8364,
+      "lon": -117.2611
+    },
+    "num_poi": 2,
+    "time_per_poi": 1,
+    "max_travel_dist": 12.1,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "toilets|planetarium",
+    "tourism_type": "museum|gallery|zoo",
+    "cuisine": "russian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 20,
+    "start_location": {
+      "lat": 32.7138,
+      "lon": -117.1832
+    },
+    "num_poi": 3,
+    "time_per_poi": 1,
+    "max_travel_dist": 11.6,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "place_of_worship",
+    "tourism_type": "viewpoint",
+    "cuisine": "new_zealand|venezuelan",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 21,
+    "start_location": {
+      "lat": 32.724,
+      "lon": -117.1664
+    },
+    "num_poi": 4,
+    "time_per_poi": 2,
+    "max_travel_dist": 10.7,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "cinema|conference_centre|toilets",
+    "tourism_type": "aquarium|attraction|zoo",
+    "cuisine": "german|lebanese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 22,
+    "start_location": {
+      "lat": 32.7358,
+      "lon": -117.1525
+    },
+    "num_poi": 4,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 16.1,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "theatre|fountain|fast_food",
+    "tourism_type": "zoo|attraction|artwork",
+    "cuisine": "french|peruvian|jamaican",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 23,
+    "start_location": {
+      "lat": 32.7079,
+      "lon": -117.1976
+    },
+    "num_poi": 4,
+    "time_per_poi": 1.5,
+    "max_travel_dist": 13.1,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "planetarium|bicycle_parking",
+    "tourism_type": "viewpoint",
+    "cuisine": "brazilian|german",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 24,
+    "start_location": {
+      "lat": 32.7062,
+      "lon": -117.1758
+    },
+    "num_poi": 4,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 14.4,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "bench|conference_centre|restaurant",
+    "tourism_type": "aquarium|attraction",
+    "cuisine": "venezuelan",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 25,
+    "start_location": {
+      "lat": 32.8355,
+      "lon": -117.2671
+    },
+    "num_poi": 5,
+    "time_per_poi": 1.5,
+    "max_travel_dist": 10.7,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "cinema|clock|theatre",
+    "tourism_type": "museum",
+    "cuisine": "mexican|cuban|jamaican",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 26,
+    "start_location": {
+      "lat": 32.7258,
+      "lon": -117.1591
+    },
+    "num_poi": 2,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 11.3,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "toilets|place_of_worship",
+    "tourism_type": "theme_park|gallery|aquarium",
+    "cuisine": "taiwanese|szechuan",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 27,
+    "start_location": {
+      "lat": 32.7546,
+      "lon": -117.1579
+    },
+    "num_poi": 2,
+    "time_per_poi": 1.75,
+    "max_travel_dist": 12.9,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "cafe|place_of_worship",
+    "tourism_type": "viewpoint",
+    "cuisine": "greek|vietnamese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 28,
+    "start_location": {
+      "lat": 32.6316,
+      "lon": -117.088
+    },
+    "num_poi": 2,
+    "time_per_poi": 0.75,
+    "max_travel_dist": 18.3,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "cinema|clock|fast_food",
+    "tourism_type": "artwork|zoo",
+    "cuisine": "russian|salvadoran",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 29,
+    "start_location": {
+      "lat": 32.7437,
+      "lon": -117.1957
+    },
+    "num_poi": 5,
+    "time_per_poi": 1,
+    "max_travel_dist": 18.0,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "fast_food",
+    "tourism_type": "attraction|theme_park",
+    "cuisine": "jamaican|indian|persian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 30,
+    "start_location": {
+      "lat": 32.7243,
+      "lon": -117.2299
+    },
+    "num_poi": 4,
+    "time_per_poi": 1,
+    "max_travel_dist": 17.6,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "bicycle_parking|toilets",
+    "tourism_type": "theme_park",
+    "cuisine": "salvadoran",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 31,
+    "start_location": {
+      "lat": 32.7626,
+      "lon": -117.1809
+    },
+    "num_poi": 2,
+    "time_per_poi": 2,
+    "max_travel_dist": 10.3,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "fountain",
+    "tourism_type": "museum",
+    "cuisine": "spanish|colombian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 32,
+    "start_location": {
+      "lat": 32.7436,
+      "lon": -117.2321
+    },
+    "num_poi": 2,
+    "time_per_poi": 2,
+    "max_travel_dist": 18.2,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "fast_food|arts_centre|fountain",
+    "tourism_type": "zoo|viewpoint|aquarium",
+    "cuisine": "japanese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 33,
+    "start_location": {
+      "lat": 32.7478,
+      "lon": -117.2105
+    },
+    "num_poi": 2,
+    "time_per_poi": 2,
+    "max_travel_dist": 19.8,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "toilets|conference_centre|bench",
+    "tourism_type": "aquarium",
+    "cuisine": "russian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 34,
+    "start_location": {
+      "lat": 32.6631,
+      "lon": -117.0795
+    },
+    "num_poi": 5,
+    "time_per_poi": 1.75,
+    "max_travel_dist": 1.4,
+    "avg_travel_speed_mph": 3.0,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "place_of_worship|clock",
+    "tourism_type": "artwork|museum",
+    "cuisine": "american",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 35,
+    "start_location": {
+      "lat": 32.7676,
+      "lon": -117.1915
+    },
+    "num_poi": 5,
+    "time_per_poi": 1,
+    "max_travel_dist": 2.7,
+    "avg_travel_speed_mph": 2.4,
+    "max_travel_time_minutes": 7,
+    "amenity_type": "bicycle_parking|bench",
+    "tourism_type": "artwork|theme_park",
+    "cuisine": "african",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 36,
+    "start_location": {
+      "lat": 32.7661,
+      "lon": -117.1956
+    },
+    "num_poi": 3,
+    "time_per_poi": 1.75,
+    "max_travel_dist": 14.8,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "cafe",
+    "tourism_type": "viewpoint|theme_park",
+    "cuisine": "pakistani|venezuelan|lebanese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 37,
+    "start_location": {
+      "lat": 32.696,
+      "lon": -117.1665
+    },
+    "num_poi": 4,
+    "time_per_poi": 1,
+    "max_travel_dist": 17.0,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "clock|restaurant",
+    "tourism_type": "viewpoint|museum|attraction",
+    "cuisine": "salvadoran|german|french",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 38,
+    "start_location": {
+      "lat": 32.7415,
+      "lon": -117.1917
+    },
+    "num_poi": 4,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 18.3,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "bench|fountain",
+    "tourism_type": "museum",
+    "cuisine": "thai|chinese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 39,
+    "start_location": {
+      "lat": 32.7284,
+      "lon": -117.171
+    },
+    "num_poi": 4,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 14.8,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "bicycle_parking",
+    "tourism_type": "gallery|zoo",
+    "cuisine": "ethiopian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 40,
+    "start_location": {
+      "lat": 32.6986,
+      "lon": -117.1457
+    },
+    "num_poi": 4,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 19.9,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "clock|cinema|bicycle_parking",
+    "tourism_type": "theme_park|viewpoint",
+    "cuisine": "lebanese|jamaican",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 41,
+    "start_location": {
+      "lat": 32.7534,
+      "lon": -117.1594
+    },
+    "num_poi": 3,
+    "time_per_poi": 1,
+    "max_travel_dist": 16.6,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "cafe",
+    "tourism_type": "attraction",
+    "cuisine": "taiwanese|tex-mex",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 42,
+    "start_location": {
+      "lat": 32.7026,
+      "lon": -117.151
+    },
+    "num_poi": 5,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 19.2,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "clock",
+    "tourism_type": "museum|theme_park|gallery",
+    "cuisine": "chinese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 43,
+    "start_location": {
+      "lat": 32.7273,
+      "lon": -117.2171
+    },
+    "num_poi": 4,
+    "time_per_poi": 1.75,
+    "max_travel_dist": 14.0,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "cafe|planetarium",
+    "tourism_type": "zoo",
+    "cuisine": "hawaiian|tex-mex|szechuan",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 44,
+    "start_location": {
+      "lat": 32.7782,
+      "lon": -117.1782
+    },
+    "num_poi": 2,
+    "time_per_poi": 2,
+    "max_travel_dist": 16.7,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "place_of_worship",
+    "tourism_type": "theme_park|museum|gallery",
+    "cuisine": "jamaican|middle_eastern|filipino",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 45,
+    "start_location": {
+      "lat": 32.6951,
+      "lon": -117.1877
+    },
+    "num_poi": 2,
+    "time_per_poi": 2,
+    "max_travel_dist": 11.6,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "cinema|toilets",
+    "tourism_type": "attraction|viewpoint|theme_park",
+    "cuisine": "szechuan|hawaiian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 46,
+    "start_location": {
+      "lat": 32.7239,
+      "lon": -117.1592
+    },
+    "num_poi": 5,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 1.7,
+    "avg_travel_speed_mph": 3.5,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "restaurant|post_office",
+    "tourism_type": "museum|theme_park",
+    "cuisine": "filipino|spanish",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 47,
+    "start_location": {
+      "lat": 32.8498,
+      "lon": -117.2786
+    },
+    "num_poi": 5,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 2.7,
+    "avg_travel_speed_mph": 2.2,
+    "max_travel_time_minutes": 5,
+    "amenity_type": "fountain|clock|fire_station",
+    "tourism_type": "artwork|viewpoint",
+    "cuisine": "nepalese|pakistani",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 48,
+    "start_location": {
+      "lat": 32.6246,
+      "lon": -117.0813
+    },
+    "num_poi": 3,
+    "time_per_poi": 2,
+    "max_travel_dist": 10.7,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "bicycle_parking|toilets|fast_food",
+    "tourism_type": "artwork|zoo",
+    "cuisine": "lebanese|filipino|greek",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 49,
+    "start_location": {
+      "lat": 32.6913,
+      "lon": -117.1657
+    },
+    "num_poi": 5,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 18.7,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "toilets",
+    "tourism_type": "aquarium",
+    "cuisine": "nepalese|brazilian|greek",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 50,
+    "start_location": {
+      "lat": 32.8594,
+      "lon": -117.2498
+    },
+    "num_poi": 2,
+    "time_per_poi": 2,
+    "max_travel_dist": 18.5,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "fountain",
+    "tourism_type": "museum|attraction",
+    "cuisine": "szechuan|cajun",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 51,
+    "start_location": {
+      "lat": 32.7173,
+      "lon": -117.1608
+    },
+    "num_poi": 5,
+    "time_per_poi": 1,
+    "max_travel_dist": 18.9,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "cafe|post_office|conference_centre",
+    "tourism_type": "artwork|gallery|aquarium",
+    "cuisine": "jamaican",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 52,
+    "start_location": {
+      "lat": 32.7316,
+      "lon": -117.1566
+    },
+    "num_poi": 2,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 13.2,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "fire_station|theatre",
+    "tourism_type": "viewpoint",
+    "cuisine": "russian|colombian|german",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 53,
+    "start_location": {
+      "lat": 32.7365,
+      "lon": -117.1507
+    },
+    "num_poi": 3,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 19.1,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "bicycle_parking|clock",
+    "tourism_type": "attraction|zoo",
+    "cuisine": "caribbean|salvadoran",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 54,
+    "start_location": {
+      "lat": 32.7706,
+      "lon": -117.1222
+    },
+    "num_poi": 4,
+    "time_per_poi": 1.75,
+    "max_travel_dist": 19.6,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "theatre|place_of_worship",
+    "tourism_type": "gallery|theme_park",
+    "cuisine": "colombian|new_zealand",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 55,
+    "start_location": {
+      "lat": 32.7399,
+      "lon": -117.1534
+    },
+    "num_poi": 4,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 15.7,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "clock|planetarium",
+    "tourism_type": "viewpoint|aquarium",
+    "cuisine": "mediterranean",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 56,
+    "start_location": {
+      "lat": 32.7512,
+      "lon": -117.1375
+    },
+    "num_poi": 4,
+    "time_per_poi": 2,
+    "max_travel_dist": 14.4,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "planetarium",
+    "tourism_type": "zoo|gallery",
+    "cuisine": "indian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 57,
+    "start_location": {
+      "lat": 32.8471,
+      "lon": -117.2381
+    },
+    "num_poi": 5,
+    "time_per_poi": 2,
+    "max_travel_dist": 2.7,
+    "avg_travel_speed_mph": 3.6,
+    "max_travel_time_minutes": 11,
+    "amenity_type": "fountain",
+    "tourism_type": "zoo",
+    "cuisine": "peruvian|american|ethiopian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 58,
+    "start_location": {
+      "lat": 32.7287,
+      "lon": -117.1362
+    },
+    "num_poi": 4,
+    "time_per_poi": 1.5,
+    "max_travel_dist": 13.8,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "clock|place_of_worship|fast_food",
+    "tourism_type": "aquarium|artwork|gallery",
+    "cuisine": "japanese|middle_eastern|persian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 59,
+    "start_location": {
+      "lat": 32.713,
+      "lon": -117.1225
+    },
+    "num_poi": 4,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 11.2,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "arts_centre|bench",
+    "tourism_type": "zoo|artwork|aquarium",
+    "cuisine": "greek|russian|cuban",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 60,
+    "start_location": {
+      "lat": 32.7069,
+      "lon": -117.222
+    },
+    "num_poi": 5,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 18.6,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "fire_station|fast_food|theatre",
+    "tourism_type": "viewpoint|attraction",
+    "cuisine": "american|vietnamese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 61,
+    "start_location": {
+      "lat": 32.6869,
+      "lon": -117.1975
+    },
+    "num_poi": 3,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 18.3,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "conference_centre",
+    "tourism_type": "attraction",
+    "cuisine": "greek|indian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 62,
+    "start_location": {
+      "lat": 32.7391,
+      "lon": -117.1685
+    },
+    "num_poi": 2,
+    "time_per_poi": 1,
+    "max_travel_dist": 17.9,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "bench",
+    "tourism_type": "attraction|gallery",
+    "cuisine": "russian|african|spanish",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 63,
+    "start_location": {
+      "lat": 32.7622,
+      "lon": -117.1459
+    },
+    "num_poi": 2,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 15.0,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "fast_food|place_of_worship",
+    "tourism_type": "zoo|viewpoint",
+    "cuisine": "cuban|filipino|taiwanese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 64,
+    "start_location": {
+      "lat": 32.7051,
+      "lon": -117.2005
+    },
+    "num_poi": 4,
+    "time_per_poi": 1.5,
+    "max_travel_dist": 16.3,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "planetarium|clock|bicycle_parking",
+    "tourism_type": "zoo|attraction|aquarium",
+    "cuisine": "australian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 65,
+    "start_location": {
+      "lat": 32.7677,
+      "lon": -117.1509
+    },
+    "num_poi": 5,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 1.2,
+    "avg_travel_speed_mph": 2.9,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "fire_station|cafe",
+    "tourism_type": "theme_park|attraction|zoo",
+    "cuisine": "american",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 66,
+    "start_location": {
+      "lat": 32.7153,
+      "lon": -117.176
+    },
+    "num_poi": 4,
+    "time_per_poi": 1.75,
+    "max_travel_dist": 11.2,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "restaurant|fountain|planetarium",
+    "tourism_type": "aquarium|attraction",
+    "cuisine": "guamanian|vietnamese|greek",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 67,
+    "start_location": {
+      "lat": 32.7235,
+      "lon": -117.142
+    },
+    "num_poi": 2,
+    "time_per_poi": 2,
+    "max_travel_dist": 12.8,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "fast_food|planetarium|conference_centre",
+    "tourism_type": "artwork|attraction|gallery",
+    "cuisine": "venezuelan|cajun",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 68,
+    "start_location": {
+      "lat": 32.8778,
+      "lon": -117.251
+    },
+    "num_poi": 5,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 2.3,
+    "avg_travel_speed_mph": 2.1,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "theatre|place_of_worship|arts_centre",
+    "tourism_type": "aquarium|gallery",
+    "cuisine": "venezuelan|hawaiian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 69,
+    "start_location": {
+      "lat": 32.8422,
+      "lon": -117.2484
+    },
+    "num_poi": 2,
+    "time_per_poi": 1,
+    "max_travel_dist": 14.4,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "arts_centre|theatre|fountain",
+    "tourism_type": "gallery",
+    "cuisine": "jamaican|spanish",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 70,
+    "start_location": {
+      "lat": 32.7076,
+      "lon": -117.2207
+    },
+    "num_poi": 2,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 12.0,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "planetarium|bench",
+    "tourism_type": "attraction",
+    "cuisine": "jamaican|german",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 71,
+    "start_location": {
+      "lat": 32.7551,
+      "lon": -117.1783
+    },
+    "num_poi": 4,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 14.0,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "arts_centre",
+    "tourism_type": "aquarium",
+    "cuisine": "jamaican|colombian|ethiopian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 72,
+    "start_location": {
+      "lat": 32.7263,
+      "lon": -117.1215
+    },
+    "num_poi": 3,
+    "time_per_poi": 2,
+    "max_travel_dist": 19.5,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "toilets",
+    "tourism_type": "viewpoint",
+    "cuisine": "lebanese|ethiopian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 73,
+    "start_location": {
+      "lat": 32.7426,
+      "lon": -117.2294
+    },
+    "num_poi": 3,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 15.1,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "fire_station|place_of_worship",
+    "tourism_type": "museum|gallery|attraction",
+    "cuisine": "szechuan",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 74,
+    "start_location": {
+      "lat": 32.8723,
+      "lon": -117.2465
+    },
+    "num_poi": 3,
+    "time_per_poi": 2,
+    "max_travel_dist": 16.3,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "conference_centre|toilets|place_of_worship",
+    "tourism_type": "museum|viewpoint",
+    "cuisine": "nepalese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 75,
+    "start_location": {
+      "lat": 32.7349,
+      "lon": -117.2229
+    },
+    "num_poi": 2,
+    "time_per_poi": 1,
+    "max_travel_dist": 14.6,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "planetarium|restaurant",
+    "tourism_type": "gallery|artwork|zoo",
+    "cuisine": "brazilian|persian|lebanese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 76,
+    "start_location": {
+      "lat": 32.7462,
+      "lon": -117.1962
+    },
+    "num_poi": 3,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 14.5,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "bench|fast_food|post_office",
+    "tourism_type": "theme_park|viewpoint|artwork",
+    "cuisine": "mediterranean|korean|peruvian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 77,
+    "start_location": {
+      "lat": 32.6355,
+      "lon": -117.0944
+    },
+    "num_poi": 2,
+    "time_per_poi": 2,
+    "max_travel_dist": 16.3,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "post_office|bicycle_parking",
+    "tourism_type": "zoo|museum|theme_park",
+    "cuisine": "tex-mex|greek|cajun",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 78,
+    "start_location": {
+      "lat": 32.6902,
+      "lon": -117.171
+    },
+    "num_poi": 5,
+    "time_per_poi": 0.75,
+    "max_travel_dist": 19.4,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "conference_centre|toilets|cafe",
+    "tourism_type": "gallery|aquarium|zoo",
+    "cuisine": "guamanian|peruvian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 79,
+    "start_location": {
+      "lat": 32.7143,
+      "lon": -117.2298
+    },
+    "num_poi": 5,
+    "time_per_poi": 0.75,
+    "max_travel_dist": 1.3,
+    "avg_travel_speed_mph": 2.2,
+    "max_travel_time_minutes": 5,
+    "amenity_type": "restaurant|conference_centre|bench",
+    "tourism_type": "museum|artwork|viewpoint",
+    "cuisine": "korean",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 80,
+    "start_location": {
+      "lat": 32.7255,
+      "lon": -117.1534
+    },
+    "num_poi": 3,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 16.1,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "clock|fountain|cinema",
+    "tourism_type": "viewpoint|museum",
+    "cuisine": "colombian|taiwanese|persian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 81,
+    "start_location": {
+      "lat": 32.6634,
+      "lon": -117.0705
+    },
+    "num_poi": 3,
+    "time_per_poi": 2,
+    "max_travel_dist": 12.5,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "post_office|fire_station|toilets",
+    "tourism_type": "gallery|museum|attraction",
+    "cuisine": "argentinian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 82,
+    "start_location": {
+      "lat": 32.6197,
+      "lon": -117.0658
+    },
+    "num_poi": 5,
+    "time_per_poi": 1,
+    "max_travel_dist": 14.1,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "cinema",
+    "tourism_type": "aquarium",
+    "cuisine": "italian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 83,
+    "start_location": {
+      "lat": 32.7143,
+      "lon": -117.1969
+    },
+    "num_poi": 4,
+    "time_per_poi": 2,
+    "max_travel_dist": 14.7,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "fast_food|arts_centre",
+    "tourism_type": "attraction",
+    "cuisine": "vietnamese|greek",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 84,
+    "start_location": {
+      "lat": 32.7172,
+      "lon": -117.2344
+    },
+    "num_poi": 3,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 16.4,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "place_of_worship",
+    "tourism_type": "attraction|aquarium|artwork",
+    "cuisine": "pakistani|greek|caribbean",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 85,
+    "start_location": {
+      "lat": 32.6867,
+      "lon": -117.183
+    },
+    "num_poi": 2,
+    "time_per_poi": 1.5,
+    "max_travel_dist": 19.7,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "place_of_worship|fast_food",
+    "tourism_type": "zoo|museum|theme_park",
+    "cuisine": "italian|new_zealand|japanese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 86,
+    "start_location": {
+      "lat": 32.7446,
+      "lon": -117.133
+    },
+    "num_poi": 4,
+    "time_per_poi": 0.75,
+    "max_travel_dist": 10.4,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "arts_centre|fire_station|clock",
+    "tourism_type": "museum|zoo|gallery",
+    "cuisine": "persian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 87,
+    "start_location": {
+      "lat": 32.7323,
+      "lon": -117.21
+    },
+    "num_poi": 2,
+    "time_per_poi": 1,
+    "max_travel_dist": 19.3,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "restaurant|cinema",
+    "tourism_type": "viewpoint|museum|zoo",
+    "cuisine": "cajun",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 88,
+    "start_location": {
+      "lat": 32.6965,
+      "lon": -117.1838
+    },
+    "num_poi": 5,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 1.4,
+    "avg_travel_speed_mph": 3.4,
+    "max_travel_time_minutes": 9,
+    "amenity_type": "bicycle_parking|cinema|restaurant",
+    "tourism_type": "zoo|attraction|viewpoint",
+    "cuisine": "german|salvadoran|caribbean",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 89,
+    "start_location": {
+      "lat": 32.7224,
+      "lon": -117.155
+    },
+    "num_poi": 5,
+    "time_per_poi": 1.5,
+    "max_travel_dist": 11.7,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "restaurant|fire_station",
+    "tourism_type": "zoo|museum",
+    "cuisine": "chinese|japanese|middle_eastern",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 90,
+    "start_location": {
+      "lat": 32.8819,
+      "lon": -117.2722
+    },
+    "num_poi": 5,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 1.5,
+    "avg_travel_speed_mph": 3.3,
+    "max_travel_time_minutes": 9,
+    "amenity_type": "restaurant|planetarium",
+    "tourism_type": "theme_park",
+    "cuisine": "peruvian|taiwanese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 91,
+    "start_location": {
+      "lat": 32.6946,
+      "lon": -117.1713
+    },
+    "num_poi": 3,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 10.3,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "cinema|arts_centre|bicycle_parking",
+    "tourism_type": "artwork",
+    "cuisine": "taiwanese|vietnamese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 92,
+    "start_location": {
+      "lat": 32.7362,
+      "lon": -117.1774
+    },
+    "num_poi": 5,
+    "time_per_poi": 0.75,
+    "max_travel_dist": 14.5,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "fire_station|place_of_worship|restaurant",
+    "tourism_type": "artwork|museum|gallery",
+    "cuisine": "middle_eastern|german|peruvian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 93,
+    "start_location": {
+      "lat": 32.7697,
+      "lon": -117.2082
+    },
+    "num_poi": 5,
+    "time_per_poi": 0.5,
+    "max_travel_dist": 2.1,
+    "avg_travel_speed_mph": 2.9,
+    "max_travel_time_minutes": 13,
+    "amenity_type": "cafe",
+    "tourism_type": "artwork",
+    "cuisine": "nepalese|african",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 94,
+    "start_location": {
+      "lat": 32.7123,
+      "lon": -117.1539
+    },
+    "num_poi": 2,
+    "time_per_poi": 1.25,
+    "max_travel_dist": 14.7,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 30,
+    "amenity_type": "bench|cinema|cafe",
+    "tourism_type": "attraction|zoo",
+    "cuisine": "african",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 95,
+    "start_location": {
+      "lat": 32.8424,
+      "lon": -117.2326
+    },
+    "num_poi": 3,
+    "time_per_poi": 1,
+    "max_travel_dist": 19.5,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "theatre|conference_centre",
+    "tourism_type": "artwork|gallery|aquarium",
+    "cuisine": "mediterranean|salvadoran",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 96,
+    "start_location": {
+      "lat": 32.8429,
+      "lon": -117.2481
+    },
+    "num_poi": 4,
+    "time_per_poi": 2,
+    "max_travel_dist": 19.2,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "restaurant",
+    "tourism_type": "artwork|aquarium|gallery",
+    "cuisine": "russian|mediterranean|middle_eastern",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 97,
+    "start_location": {
+      "lat": 32.7374,
+      "lon": -117.2254
+    },
+    "num_poi": 3,
+    "time_per_poi": 2,
+    "max_travel_dist": 18.1,
+    "avg_travel_speed_mph": 50,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "cafe|fire_station",
+    "tourism_type": "museum",
+    "cuisine": "russian|nepalese",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 98,
+    "start_location": {
+      "lat": 32.705,
+      "lon": -117.1882
+    },
+    "num_poi": 4,
+    "time_per_poi": 1.75,
+    "max_travel_dist": 19.9,
+    "avg_travel_speed_mph": 40,
+    "max_travel_time_minutes": 60,
+    "amenity_type": "fire_station",
+    "tourism_type": "gallery|museum|theme_park",
+    "cuisine": "spanish|argentinian",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 99,
+    "start_location": {
+      "lat": 32.8391,
+      "lon": -117.2648
+    },
+    "num_poi": 5,
+    "time_per_poi": 2,
+    "max_travel_dist": 12.5,
+    "avg_travel_speed_mph": 30,
+    "max_travel_time_minutes": 45,
+    "amenity_type": "conference_centre|post_office|cinema",
+    "tourism_type": "theme_park",
+    "cuisine": "persian|filipino|venezuelan",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  },
+  {
+    "id": 100,
+    "start_location": {
+      "lat": 32.7533,
+      "lon": -117.1445
+    },
+    "num_poi": 3,
+    "time_per_poi": 0.75,
+    "max_travel_dist": 15.8,
+    "avg_travel_speed_mph": 20,
+    "max_travel_time_minutes": 15,
+    "amenity_type": "place_of_worship|planetarium",
+    "tourism_type": "theme_park|museum|artwork",
+    "cuisine": "cuban",
+    "required_accessibility": "wheelchair",
+    "visited_ids": []
+  }
+]
